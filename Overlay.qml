@@ -158,6 +158,7 @@ Item {
                     Text {
                         width: parent.width
                         height: Style.space(170)
+                        textFormat: Text.PlainText
                         text: root.choices[root.selectedIndex]
                         color: root.spinning ? Color.accent : Color.foreground
                         font.family: Style.font.family

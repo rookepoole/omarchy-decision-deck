@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "io.github.rookepoole.decision-deck",
   "name": "Decision Deck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Rooke Poole",
   "license": "MIT",
   "description": "A keyboard-first decision randomizer with payload-defined choices.",

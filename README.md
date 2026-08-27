@@ -24,7 +24,7 @@ Custom deck:
 omarchy-shell shell summon io.github.rookepoole.decision-deck '{"choices":["Tea","Coffee","Water"]}'
 ```
 
-Space, Enter, or click draws; Left/Right browses; Escape closes. Payload values are display-only strings, capped at 12 choices and 80 characters each. They are never executed as commands.
+Space, Enter, or click draws; Left/Right browses; Escape closes. Payload values are display-only strings, capped at 12 choices and 80 characters each. They are rendered explicitly as plain text and are never interpreted as rich text or executed as commands.
 
 ## Dependencies and permissions
 
